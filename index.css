@@ -1,0 +1,25 @@
+h2 {
+    color: darkgrey;
+    text-align: center;
+    font-size: 50px;
+}
+input[type=text] {
+    width: 100%;
+    padding: 8px 8px;
+    margin: 10px 0;
+}
+p {
+    color: Navy;
+    text-align: left;
+    font-size: 20px;
+}
+a {
+    color: YellowGreen;
+    text-align: left;
+    font-size: 20px;
+}
+
+body {
+    background-color: GhostWhite;
+    padding: 20px;
+}
